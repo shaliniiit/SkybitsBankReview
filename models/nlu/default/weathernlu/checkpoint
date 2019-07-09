@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Shalini\\Desktop\\Bankbot\\./models/nlu\\default\\weathernlu\\component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Shalini\\Desktop\\Bankbot\\./models/nlu\\default\\weathernlu\\component_5_EmbeddingIntentClassifier.ckpt"
