@@ -1,0 +1,59 @@
+import pandas as pd       
+train = pd.read_csv(r"C:\Users\Shalini\Downloads\f.csv")
+train.head()
+print(len(train["review"]))
+k=len(train["review"])
+#import nltk
+#nltk.download() 
+from bs4 import BeautifulSoup 
+import re
+#from nltk.corpus import stopwords
+i=0
+clean_train_reviews = []
+while i<k:
+    example1 = BeautifulSoup(train["review"][i])
+    letters_only = re.sub("[^a-zA-Z]", " ",example1.get_text() )
+    lower_case = letters_only.lower()        
+    words = lower_case.split() 
+    #words = [w for w in words if not w in stopwords.words("english")]
+    clean_train_reviews.append(" ".join( words))
+    if i%10==0:
+        print(i)
+    i=i+1
+from sklearn.feature_extraction.text import CountVectorizer
+vectorizer = CountVectorizer(analyzer = "word",   \
+                             tokenizer = None,    \
+                             preprocessor = None, \
+                             stop_words = None,   \
+                             max_features = 5000) 
+train_data_features = vectorizer.fit_transform(clean_train_reviews)
+train_data_features = train_data_features.toarray()
+print ("Training the random forest...")
+from sklearn.ensemble import RandomForestClassifier
+forest = RandomForestClassifier(n_estimators = 100) 
+forest = forest.fit( train_data_features, train["sentiment"] )
+test = pd.read_csv(r"C:\Users\Shalini\Downloads\tt.csv", header=0, \
+                    delimiter="\t", quoting=3)
+print (test.shape)
+num_reviews = len(test["review"])
+clean_test_reviews = [] 
+print(len(test["review"]))
+from bs4 import BeautifulSoup 
+import re
+#from nltk.corpus import stopwords
+i=0
+while i<len(test["review"]):
+    example1 = BeautifulSoup(test["review"][i])
+    letters_only = re.sub("[^a-zA-Z]", " ",example1.get_text() )
+    lower_case = letters_only.lower()        
+    words = lower_case.split() 
+    #words = [w for w in words if not w in stopwords.words("english")]
+    clean_test_reviews.append(" ".join( words))
+    if i%5==0:
+        print(i)
+    i=i+1
+test_data_features = vectorizer.transform(clean_test_reviews)
+test_data_features = test_data_features.toarray()
+result = forest.predict(test_data_features)
+output = pd.DataFrame( data={"review":test["review"], "sentiment":result} )
+output.to_csv( r"C:\Users\Shalini\Downloads\lll1.csv", index=False, quoting=3,escapechar='\\' )
