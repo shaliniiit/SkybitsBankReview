@@ -1,16 +1,16 @@
-cd Desktop
-mkdir PatentBot
-cd PatentBot
->pip install -r requirements.txt
-python -m spacy download en
+open cmd in Administrator mode
+cd <to the location of folder in your local desktop>
+pip install -r requirements.txt
 npm i -g rasa-nlu-trainer
+python -m spacy download en
+cd <to the location of folder in your local desktop>
 mkdir data
 cd data
-echo 'rasa nlu'>data.json
+cut and paste data.json file manually in the data directory just created that is data\data.json
 rasa-nlu-trainer
-cd..
-echo 'config'>config_spacy.json
-echo 'model'>nlu_model.py
+<opens up server>
+open another cmd window
+cd <to the location of folder in your local desktop>
 python nlu_model.py
 
 
