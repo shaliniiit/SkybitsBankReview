@@ -1,0 +1,2346 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "Credit Card",
+        "text": "credit card scb last year credit card services comparatively good cards charge annual fee time getting card get sms alerts offers happy credit limit credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "car insured icici lombard last years claim experience mark car insurance policy covered bumper bumper damage got coverage value rs claim experience pay premium rs insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "paytm provides good services compared sources market get cash back offers recharges bill payments using service last years face transaction issues paytm mobile application user friendly use"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "sbi simply save credit card last years satisfied credit limit credit card spend rs year annual fee rs waived offers like reward points good card get offer shopping petrol"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance policy lic last years money back policy tenure life insurance policy years pay premium year net banking payment options convenient happy coverage value policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "required loan amount approved kotak mahindra bank disbursed loan amount within promised time customer support service response good kotak mahindra bank rate interest charges average"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using mobile application website bankbazaar user friendly easy use know bankbazaar com last years good experience bankbazaar far customer service good followed time response prompt"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got life insurance policy hdfc life policy good plan benefits better policy coverage customer support service good hdfc bank policy tenure years need pay premium amount rs policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm services payments recharges transactions find useful process easy financial tool find user friendly used anywhere app also user friendly get necessary functions"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using amex credit card last months rewards credit card get good reward points transactions happy credit limit credit card charge annual fee time getting credit card transactions hassle free card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "holding money back life insurance policy around years ago customer support service response good lic pay premium ecs mode premium amount rs per month pay premium get money back every years"
+      },
+      {
+        "intent": "Loan",
+        "text": "regular user paytm years use paytm various financial transactions use paytm booking tickets paying electricity bills also shopping paytm convenient platform making payments busy schedule In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold credit card icici bank last years pay annual fee rs card waived spend rs card get good payback points card surcharges waived petrol type credit card coral card credit limit satisfactory"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got jeevan anand life insurance policy around yearsa ago customer support service response good lic give good support customers tenure policy years policy yet mature"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm years use paytm mainly shopping bill payments platform easy use overall experience good also mobile recharges via paytm use mobile app website platforms user friendly"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "diners club credit card hdfc bank last years annual fee charged credit card credit limit value fine card get offers like reward points cash back flight tickets convenient payment options card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insurance service cigna benefits single offers benefits covers top hospitals claimed service till excellent experience sigma cigna health insurance service"
+      },
+      {
+        "intent": "Loan",
+        "text": "hdfc bank offered personal loan around months ago customer support service response good hdfc bank got loan amount within week time required loan amount given satisfied"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card citi bank last years services provided card pretty good compared credit cards annual fee waived spend rs card net banking making bill payments happy credit limit"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance corporation india service good new schemes offers good lic use intimate regularly regarding payments taken five policy lic tenure period ten years excellent service life insurance corporation india"
+      },
+      {
+        "intent": "Loan",
+        "text": "got personal loan rbl around months ago customer support service response good rbl delivered loan amount month time offered loan amount rs applied loan amount rs"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "experience indusind bank credit card good process took months complete annual fee charged credit card get sms alerts offers credit card card lifetime free card use card shopping purpose customer"
+      },
+      {
+        "intent": "Insurance",
+        "text": "new india assurance taken two wheeler insurance premium paying policy accidental coverage bike third party claim experience till customer service fine"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan service good capital first disbursed loan amount within days time customer support service response good capital first approved lowest loan amount got expected loan"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "axis bank credit card service good got axis bank buzz credit card around months ago customer support service response good axis bank credit limit value good axis bank buzz credit card satisfied"
+      },
+      {
+        "intent": "Insurance",
+        "text": "jeevan saraal life insurance policy using years customer support service good lic give better response customers policy tenure years would say good policy use"
+      },
+      {
+        "intent": "Loan",
+        "text": "got personal loan hdfc bank around years ago customer support service good hdfc bank disbursed loan amount within week time verification process required loan amount given satisfied"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "benefits offers better icici bank coral visa credit card got credit card recently use icici bank coral visa credit card rarely credit limit value average card still need increase credit limit value"
+      },
+      {
+        "intent": "Insurance",
+        "text": "hold jeevan anand policy lic around years ago customer service good lic give good response customers policy tenure years pay premium every month would say satisfied lic jeevan anand policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "use paytm mainly mobile recharges platform good customer support also good paytm also great platform pay bills shopping booking movie tickets website easy use overall experience good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "got indus ind bank aura credit card around months ago customer support service good indus ind bank give good response customers credit limit value low card still need increase credit limit value"
+      },
+      {
+        "intent": "Insurance",
+        "text": "directly purchased car insurance service showroom icici payments cheques use intimate regularly payments cheques staffs friendly process good experience icici car insurance service"
+      },
+      {
+        "intent": "Loan",
+        "text": "use paytm application past year merchants using use paytm mobile application fuel bill payments online orders usages easy use paytm mobile application ver used kind usages"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bank bazaar service good got credit card within promised via bank bazaar use bank bazaar mobile application easy use user friendly customer support service responsiveness prompt bank bazaar"
+      },
+      {
+        "intent": "Insurance",
+        "text": "icici two wheeler insurance service good payments cash use pay premium yearly directly cash use intimate regularly sms paying k yearly premium good experience icici two wheeler insurance service"
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 34,
+            "end": 40,
+            "value": "Delhi ",
+            "entity": "Location"
+          }
+        ],
+        "text": "using paytm mobile application in Delhi years really happy service use paytm kind shopping paying bills mobile recharges booking ola cabs paytm great platform manage bills keep track expenses"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "happy services bank bazaar provided products available readily easy choose among products distinct getting offers amazon voucher along products good"
+      },
+      {
+        "intent": "Insurance",
+        "text": "service lic good new schemes offers good lic payments options online lic online portal easy navigation three policy lic tenure period years good experience lic"
+      },
+      {
+        "intent": "Loan",
+        "text": "bank india offered loan time delivered required loan amount satisfied customer support service response good bank india satisfied interest rate offered low compared banks"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using standard chartered bank credit card good card lifetime free offer happy benefits features card issues services good operate good satisfied"
+      },
+      {
+        "intent": "Insurance",
+        "text": "ervice lic good new schemes offers good lic payments options online lic online portal easy navigation three policy lic tenure period years good experience lic"
+      },
+      {
+        "intent": "Loan",
+        "text": "citibank personal loan service high interest rate customer support service good citibank rate interest charges high citibank personal loan process would good reduce interest rate"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "happy credit card holding icici bank customer service bank providing good issues customer service easily accessible point need make improvements"
+      },
+      {
+        "intent": "Insurance",
+        "text": "religare health insurance service good payments ecs offers religare covers top hospitals much helpful benefits whole family good experience religare health insurance service"
+      },
+      {
+        "intent": "Loan",
+        "text": "standard chartered bank offered personal loan got within week time rate interest charges average standard chartered bank personal loan process would say satisfied service got"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "visited bankbazaar com seeing tv commercials use mobile app much user friendly customer support also good always got prompt follow customer service team overall glad platform compare choose right financial products"
+      },
+      {
+        "intent": "Insurance",
+        "text": "icici two wheeler insurance service good payments online also online portal easy navigation process fast icici two wheeler insurance service good experience icici two wheeler insurance service"
+      },
+      {
+        "intent": "Loan",
+        "text": "week time got personal loan hdfc bank customer support service good hdfc bank required loan amount given satisfied rate interest charges average hdfc bank In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hdfc credit card happy card services good lifetime free card limit got card good benefits offers card also good everything fine would like rate stars"
+      },
+      {
+        "intent": "Loan",
+        "text": "use paytm payments supermarkets purchase day day stuffs also use paytm book flight tickets movie tickets also use paytm recharge use mobile app however customer support bad issues replacement paytm sent faulty item"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using citi bank credit card word would use credit card excellent benefits card awesome happy credit card issues charges credit card also gets waived spend certain amount easy use"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken two wheeler loan hdfc bank approved loan amount around rate interest monthly emi total tenure years processing fee included documentation done well"
+      },
+      {
+        "intent": "Insurance",
+        "text": "service lic good new schemes offers good lic payments options online lic online portal easy navigation one policy lic tenure period years good experience lic taken two wheeler loan hdfc bank "
+      },
+      {
+        "intent": "Credit Card",
+        "text": "satisfied axis bank credit card using credit limit good offered far experience card also fine first year annual charges zero carried forward second year chargeable ok services also fine"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insurance reliance documents process smooth reliance two wheeler insurance service use pay premium online excellent service reliance two wheeler insurance bajaj pulsar cc bike"
+      },
+      {
+        "intent": "Loan",
+        "text": "got home loan dhfl around year ago service average dhfl giving proper response customers every time go visit bank branch loan service executives mark rate interest th"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using amex rewards card years really happy features benefits reward points redemption really smooth limit set comes reward points redemption use card shopping dining"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken health insurance bajaj allianz general insurance premium paying annually provide cashless facility claim experience good cashless facility almost coverage done insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "got personal loan kangra coop bank around years ago customer support service good kangra bank give good response customers got required loan amount satisfied rate interest char"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using sbi gold credit card years balance transfer option really wonderful use card fuel daily needs overall happy card features customer support needs improved"
+      },
+      {
+        "intent": "Insurance",
+        "text": "bajaj allianz general insurance taken health insurance premium paying policy accidental coverage bike rider claim experience till customer service response good"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken two wheeler loan canara bank approved loan amount lakhs rate interest father works process easy process quick overall experience regarding two wheeler good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using axis bank myzone credit card past years card offers discount movies anywhere exciting feature card customer support also equally good bank staff really helpful approachable"
+      },
+      {
+        "intent": "Insurance",
+        "text": "hold health insurance star health last years pay insurance premium rs every year get good coverage value rs lakhs health insurance policy claimed anything far insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "idfc bank savings account used years customer support service good idfc bank give good response customers net banking internet banking service excellent idfc bank"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bought indusind bank chelsea fc credit card march havn used much terms features benefits yet experience promised time purchase early honest opinion application process smooth hassle free"
+      },
+      {
+        "intent": "Insurance",
+        "text": "lic one best insurance policy policy last years long term policy pay premium months net banking convenient payment options maturity period policy years happy returns policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "kangra cooperative bank savings account used past years account used much opened account avail loans products via savings account customer support service response average kangra cooperative bank"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using bankbazaar com platform almost months great platform compare various financial products customer support good website also user friendly yet receive amazon com gift voucher"
+      },
+      {
+        "intent": "Insurance",
+        "text": "car insured hdfc ergo last years happy coverage value car insurance claim experience far car insurance cover bumper bumper well third party damages pay premium rs insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "service paytm good uses paytm service recharge online shopping offers cash backs good paytm service using paytm service past one year average service paytm service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "recently past three months using credit card rbl credit limit less expecting offers benefits good rbl credit card service customer service prompt rbl credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india insurance product name jeevan anand policy mostly renew policy paying premium online life insurance policy tenure years"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken car loan sbi approved loan amount lakhs rate interest tenure years monthly emi comes around fast approval sbi customer service response good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "yes bank credit card past months use card gold purchases shopping online purchases home appliances usages credit limit value good card satisfied would good increase credit limit value"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insurance policy icici lombard general insurance since faced issue like online transactions renewing insurance feel comfortable recommend icici lombard general insurance two wheeler insurance policy friends"
+      },
+      {
+        "intent": "Loan",
+        "text": "rate interest offered hdfc personal loan service little high compared others market documents process smooth easy payments online loan process approved within two minus good experience hdfc personal loan service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "use indus ind bank platinum credit card past two months credit card service good indus ind bank give good response customers credit limit value good card satisfied"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken health insurance policy top private sector insurance company apollo munich benefits covered one policy need top insurance plan received health card policy document mail good network best corporate hospitals"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan citi bank documents process smooth citi bank customer support good citi personal loan service process fast without delay average service citi personal loan service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using sbi simplyclick credit card past moths getting reward points easy redeem reward points well also many cash back offers overall card good online shopping payments"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insurance prestigious insurer ie hdfc ergo general insurance say one best insurance mostly plan benefits cover policy use website check quotes renewal"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken home loan idbi bank approved loan amount lakhs rate interest deprecating installments monthly emi years independent house process quick"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "started using state bank india simply save credit card recently credit limit value good card satisfied rate interest charges average state bank simply save credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insurance oriental insurance last years claim experience far insurance policy coverage value insurance policy satisfied pay premium rs every year insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "use paytm day day purchases use paytm ordering food transferring money friends paytm paytm charges grocery discounts sometime sometimes cash back"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "feel limit kotak credit service little high compared others market customer support expected kotak credit card service offers benefits nominal kotak credit card service service kotak credit card service expected kotak credit card team"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insured religare health months back happy coverage value insurance policy premium rs paid every year health insurance claim experience far insurance cover rs lakhs insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "took bajaj finserv personal loan years ago loan fully paid closed happy customer service assistance loan processing quick hassle free"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "got good service bank bazaar team got good response bank bazaar good explaining products brief way communication part excellent bank bazaar team satisfied service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken two wheeler insurance policy top private sector insurance company new india assurance along vehicle annual premium reasonable comparing insurance products five year old policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken two wheeler insurance policy top private sector insurance company new india assurance along vehicle annual premium reasonable comparing insurance products five year old policy"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using hdfc titanium times credit card offer regular discounts flipkart amazon instant cashback offers also card useful booking movie tickets offers tickets booked via bookmyshow"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken health insurance policy top private sector insurance company max bupa benefits covered one policy need top insurance plan received health card policy document mail good network best corporate hospitals"
+      },
+      {
+        "intent": "Loan",
+        "text": "got home loan hdfc limited around years ago customer support service average hdfc limited thye need focused response part got loan amount around months time process long hdfc li"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bought citi rewards card last month happy thye low rate interest emi selected citi goodwill one friend recommend go citi main reason choosing citi rewards card need come offers like providers already market"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india annually premium rs reasonable debited savings account insurance product name money b"
+      },
+      {
+        "intent": "Loan",
+        "text": "tata capital two wheeler loan service good documents procedure smooth tata capital payments deducted ecs much helpful pay premium excellent experience tata capital two wheeler loan service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card service good hdfc bank got hdfc bank diners rewardz credit card within week time customer support service response good hdfc bank give good response customers"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india insurance product name jeevan anand policy provided non claim bonus benefits annually premium rs r"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken personal loan hdfc bank got expected amount loan customer service response good rate interest time nominal got loan amount quickly easy process hdfc"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using american express platinum travel credit card since march purchased card exploit great travel benefits offer credit reward points transactions make payments online convenient"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india insurance product name jeevan suraksha annually premium rs high debited savings account automatically"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken personal loan citi bank amount approved one expected rate interest tie nominal submit normal document like pan salary documents"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "started using kotak mahindra bank urbane gold credit card years customer support service good kotak give good response customers credit limit value good card satisfied"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india insurance product name jeevan anand policy annually premium rs reasonable debited savings account"
+      },
+      {
+        "intent": "Loan",
+        "text": "paytm payments bank ltd mobile application years customer support service response good paytm use paytm application bill payments mobile recharges usages satisfied using paytm mobile application"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "get benefits like rewards point cash back offers help citi rewards credit card use card year customer support service response god citibank give good response customers"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken car insurance icici lombard premium provide bumber bumber road assistance cashless garages zero depression accidental coverage first party third party comparing good policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken car insurance icici lombard premium provide bumber bumber road assistance cashless garages zero depression accidental coverage first party third party comparing good policy"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bank bazaar service good know bank bazaar months customer support service good bank bazaar team give good response customers applying financial products use bank bazaar mobile application easy use"
+      },
+      {
+        "intent": "Insurance",
+        "text": "bank bazaar service good know bank bazaar months customer support service good bank bazaar team give good response customers applying financial products use bank bazaar mobile application easy use"
+      },
+      {
+        "intent": "Loan",
+        "text": "bank bazaar service good know bank bazaar months customer support service good bank bazaar team give good response customers applying financial products use bank bazaar mobile application easy use"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "documents collected time hdfc bank time process credit card application got hdfc bank diners rewardz credit card within week time customer support service good hdfc bank give good response customers"
+      },
+      {
+        "intent": "Insurance",
+        "text": "religare health taken health insurance provide cashless facility claim experience health check available insurance policy individual policy customer service response good"
+      },
+      {
+        "intent": "Loan",
+        "text": "purchased tv mobile phone bajaj rate interest documents process smooth bajaj payments online much helpful good experience bajaj consumer durable loan service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "kotak credit card service good charges high kotak filled fuel rupees charged extra credit limit less compared credit service providers market expected lakhs offered around k n"
+      },
+      {
+        "intent": "Insurance",
+        "text": "hold life insurance policy lic last years long term policy tenure life insurance policy years use net banking making premium payments pay months happy coverage returns insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "two wheeler loan bajaj rate interest charges high compared others market documents process smooth response good bajaj also owns bajaj emi card much useful"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "money back credit card yes bank offers benefits good yes credit limit sufficient rate interest charges fine yes online net banking user friendly yes good experience yes bank credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "car insured icici lombard last year happy coverage value insurance policy claimed anything far insurance aware premium amount car insurance cover bumper bumper damages insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "savings account idfc bank service good idfc bank savings account service uses idfc online net banking easy navigation lot good options use visit branch directly good staffs friendly good experience idfc bank savings account service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "good experience american express credit card service credit limit sufficient american express customer support prompt compared credit service providers market documents collected door step smooth process"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken car insurance hdfc ergo yearly premium paying provide bumber bumber cashless garage road assistance accidental insurance well yearly renew policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "used services paytm useful tool payments though paytm sometimes use recharges bills never faced issues mobile app working fine smooth paytm provided good services happy In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "standard chartered credit card service good rate interest charges fine customer service prompt credit limit good standard chartered credit card team offers benefits good standard chartered credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "lic policy since coverage value returns insurance policy mark long term policy tenure period years make premium payments year cheque convenient payment options"
+      },
+      {
+        "intent": "Loan",
+        "text": "initially started using paytm making bill payments recharges good experience using mobile app user friendly easy access provides many options basic purposes sometimes give good cash back offers well satisfied using services"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using bakbazaar com past years website user friendly customer support really helpful choosing right financial product credit card application smooth hassle free use bankbazaar com website"
+      },
+      {
+        "intent": "Insurance",
+        "text": "recently renewed car insurance shriram general insurance company customer support service response good shriram give reminders renew policy due date paid rs renew car insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience paytm taken services good options make bill payments mobile recharges recharges flexible easy find app also easy far satisfied taking services faced issues"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "rate interest charges nominal compared others market offers benefits good icici credit limit comfortable customer support prompt good experience icici credit card department"
+      },
+      {
+        "intent": "Insurance",
+        "text": "insured two wheeler icici lombard general insurance company recently renewed policy second time paid rs renew two wheeler insurance policy icici lombard give intimations renew poli"
+      },
+      {
+        "intent": "Loan",
+        "text": "hassles bank bazaar well taken home loan process smooth easy contacted time given necessary details website also good informative convenient get connected bank"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "indusind credit card service good credit limit k offered expected lakh documents procedure smooth customer support smooth good experience indusind credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "use life insurance policy tata aia life insurance around year ago customer support service good tata aia policy tenure years pay premium amount rs policy every year plan benefits policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken services paytm services good gives easy options make payments utility bills useful terms making recharges shopping well charges involved make transactions banks completely satisfied"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "applied citi cashback card march happy credit limit offered applied card online application process easy hassle free happy features card offer make online payments"
+      },
+      {
+        "intent": "Insurance",
+        "text": "bajaj allianz health insurance policy around year ago customer support service good bajaj allianz general insurance company need pay premium amount rs every year policy covers members family"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm recharges shopping making bill payments useful satisfied good options app also user friendly lot options check make payments easily even use cashless payments shops"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using platinum credit card sbi offers benefits good sbi platinum card customer support prompt sbi rate interest charges nominal sbi credit card service good experience sbi platinum credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insurance policy united india insurance last years claim experience mark covered billed amount coverage value rs lakhs pay premium rs insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "used paytm services provides user friendly bill payments utility bills etc recharges makes simpler find tool useful happy taken services paytm involves cashless transactions"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card citi service good citi credit card service offers cash backs good citi credit card team credit limit also sufficient totally excellent service citi credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insured lic last years long term policy tenure life insurance policy years make premium payments cheque year convenient payment options satisfied coverage returns policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "used paytm find useful recharges payments easy use never faced problems transactions recharges good financial tool people use according needs find useful certain aspects"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "offers benefits good hdfc credit service provide offers bookmyshow customer support prompt hdfc credit limit comfortable totally good experience hdfc credit card department"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insured united india insurance last years claim experience far insurance happy coverage value insurance policy premium rs paid insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm good experience merchant paytm savings account well find services ok sometimes transactions get stuck resolve matter hours"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "Bank bazaar is always fulfills it's commitment which they give to their customers and also from bank bazaar the follow up was there regularly till I received the credit card. I mostly use bank bazaar's mobile application which is user friendly."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am using SBI credit card from last 2 years, the services provided by SBI credit card is good when compared to all other credit cards. I get good offers like cash back and reward points. I paid an annual fees of Rs 3900 which is nominal. I use this card for shopping purpose and i am also satisfied with the credit limit."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am using HDFC credit card from last 7 to 8 months, the services provided by HDFC credit card is good when compared to all other credit cards. I get good offers like cash back and reward points. The annual fees which i paid for this card is nominal. I use this card for shopping purpose and i am also satisfied with the credit limit."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am using Axis bank credit card from last 3 years, the services provided by Axis bank credit card is good when compared to all other credit cards. i get good offers like cash back and reward points. This credit card was for free of cost. I use this card for shopping and paying EB bills. I am also satisfied with the credit limit."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "apply bankbazaar com website easy navigation lot good options customer support prompt bankbazaar com recently came know service bankbazaar com excellent experience bankbazaar com"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken two wheeler insurance policy top private sector insurance company icici lombard general insurance annual premium reasonable comparing insurance products prefer online renew two w"
+      },
+      {
+        "intent": "Loan",
+        "text": "used paytm mostly payments purchases line store dont charge anything get cash back offers good making bill payments useful tool happy services user friendly tool"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "good experience hsbc credit card service credit limit sufficient hsbc documents process smooth hsbc credit service good service hsbc credit service customer support good well"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india also provided personal accidental policy complementary product name jeevan anand policy annual premium rs"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken services paytm find services financial tool useful mostly use payments recharges etc cashless tool comes handy many ways never faced problems app far everything seem ok till"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bankbazaar com great platform compare choose various financial products also check credit score free got amazon gift voucher credit card overall shopping experience smooth hassle free"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insured new india assurance year back happy coverage value insurance policy claim anything far insurance policy premium rs paid two wheeler insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "bank bazaar good platform financial products customer service responses mark use website got many options choose best banks interest rate faced inconvenience contented"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using hsbc credit card much still good experience hsbc credit card service customer support prompt hsbc credit card service use receive good offers cash backs online net banking easy use lot good option"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken health insurance policy public sector insurance company hdfc ergo general insurance annual premium amount reasonable comparing premiums received policy document mail hard copy contacted customer"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan icici bank loan amount lakhs interest rate bit high tenure period months customer service responses really good loan approved time th processing fee also nominal"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using indianoil citi platinum card year reward points en cashed petrol excellent feature customer support also fast responses also prompt card takes care day due fuel expenses"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken two wheeler insurance policy public sector insurance company liberty videocon general insurance annual premium amount quite high comparing premiums received policy document mail hard copy"
+      },
+      {
+        "intent": "Loan",
+        "text": "bank bazaar good platform financial products satisfied customer service responses process taking long time website user friendly web portals accuracy speed good otherwise much comfortable accessing site"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using icici credit card past four months customer support prompt icici credit card service credit limit also good icici credit card service good experience icici credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken two wheeler insurance policy public sector insurance company hdfc ergo general insurance annual premium amount rs reasonable comparing premiums received policy document mail"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan hdfc bank customer service responses mark loan amount interest rate bit higher banks provided door steps service collecting documents"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "state bank india credit card service good using sbi credit card past four months customer support prompt sbi rate interest charges fine sbi good experience sbi credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken two wheeler insurance policy public sector insurance company national insurance annual premium amount rs reasonable comparing premiums received policy document mail"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience really amazing bank bazaar customer service responses really good using website many good options banks interest rate web portal accuracy speed good use tools like emi calculator credit score options use full"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bought indusind bank platinum aura edge credit card march frequent flier found visa airport lounge access interesting provide international lounge access drawback overall happy features provide"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken health insurance policy top private sector insurance company apollo munich couriered health card registered communication address good network corporate hospitals good positive claim experience"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken citi bank years back loan amount lakhs interest rate high tenure years customer service responses mark provide door step service collecting documents loan approved time"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using rbl titanium delight credit card past one would say good card use credit limit value good rbl titanium delight credit card satisfied customer support service response average"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india product name jeevan anand policy annual premium rs reasonable prefer online payments"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken personal loan via bank bazaar customer service responses mark website many good option banks interest rate web portal good tried using tools like emi calculator credit score option useful"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "service good bank bazaar know bank bazaar years customer support service good bank bazaar team get immediate calls backs bank bazaar team applying financial products"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken term insurance kotak life since long term policy tenure period years pay premium rs every year net banking convenient payment options health coverage rs lakhs accidental coverage rs lakhs policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken tata capital loan amount lakhs interest rate satisfactory tenure period years process quite good received documents yet sanctioned loan within committed time"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "good experience hdfc credit card service customer support prompt hdfc credit card service use receive good offers cash backs online net banking easy use lot good options good experience hdfc credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy lic years back premium policy gets auto deducted salary account coverage rs lakh policy satisfactory long term policy tenure years"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken loan via bank bazaar customer service response really amazing website informative user friendly web portals accuracy speed good website many good options faced error whilst using site"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "service got form hsbc bank good delivered hsbc visa platinum credit card within days time credit limit value good card satisfied customer support service good hsbc bank"
+      },
+      {
+        "intent": "Insurance",
+        "text": "claim experience far health insurance using insurance last years aware premium amount company pays coverage value insurance policy lakhs satisfied"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken icici bank loan amount lakhs interest rate high tenure period years customer service responses good taken much time process update"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "amex credit card service good customer support prompt amex credit card service feel amex needs improve offers cash backs online net banking easy use lot good options good experience amex credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "long term policy lic last years happy coverage returns policy tenure life insurance policy years pay premium months net banking convenient payment options policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken axis bank years back loan amount lakhs interest rate high tenure period years customer service responses mark satisfied loan process sanct"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold citi bank credit card limit got card good started using card created pin withdraw cash limit credit card annual charge card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken two wheeler insurance policy top private sector insurance company icici lombard general insurance annual premium amount reasonable comparing premiums received policy document registered communication address"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience really staysfcatroy bank bazaar customer service really good responses time faced issues mobile application also user friendly many good options convenience also overall experience satisfactory In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "apply bankbazaar com website easy navigation customer support responsible bankbazaar com recently came know service bankbazaar com excellent experience bankbazaar com"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india product name money back policy annual premium rs reasonable prefer online payments renew policy due date"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan icici bank loan amount lakhs interest rate average customer service responses mark happy th process documentation also quick processing fee bit high loan approved time"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "axis credit card service good offer sufficient credit limit life time free card charges documents process smooth customer support prompt axis good experience axis credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "jeevan anand life insurance policy lic got policy around years ago customer support service good lic pay premium online cheque via cash lic agents come collects premium amount time"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience really good bank bazaar customer service responses mark used website many good options tools like credit score option check credit score would like recommend others"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "satisfied bankbazaar got good response follow calls bankbazaar end find difficulty entire team approval response time application fine website easy navigate"
+      },
+      {
+        "intent": "Insurance",
+        "text": "use life insurance policy lic past years money back policy tenure years plan benefits coverage good money policy pay premium amount rs per year satisfied money back policy lic"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience really good bank bazaar customer service responses mark used website many good options tools like credit score option check credit score would like recommended others"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold credit card icici bank received reward points cash back card requested increase limit till increased limit using application card annual charge card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken car insurance oriental insurance premium paying renew yearly benefits include bumber bumber road assistance cashless accidental insurance well claim experience good policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan icici bank loan amount lakh interest rate bit high market customer service responses mark process could better processing fee nominal overall experience good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold credit card icici bank received reward points cash back card requested increase limit till increased limit using application card annual charge card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken car insurance oriental insurance premium paying renew yearly benefits include bumber bumber road assistance cashless accidental insurance well claim experience good policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan icici bank loan amount lakh interest rate bit high market customer service responses mark process could better processing fee nominal overall experience good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using indusind visa platinum credit card mainly use booking tickets shopping needs send regular discounts pretty much useful save money cash transfer facility also useful overall happy card features"
+      },
+      {
+        "intent": "Insurance",
+        "text": "holding health insurance policy star health allied insurance company got policy pay rs every year renew policy policy covers members family star health insurance policy medical coverage rs"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken indusind bank loan amount lakhs interest rate high tenure period months haves sanctioned loan committed time loan approved time experience really good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "got indianoil citi platinum credit card march happy excellent features carry money whenever need fuel card takes cares day day fuel expenses also keeps track spendings fuel per month waiting"
+      },
+      {
+        "intent": "Insurance",
+        "text": "money back life insurance policy good use got policy lic around years ago customer support service response good lic policy tenure years years left maturity"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience really good using website many good options banks interest rate web portals accuracy speed good faced run time time error suing would like recommend others In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "good experience hdfc credit card service customer support prompt hdfc credit card service use receive good offers cash backs online net banking easy use lot good options good experience hdfc credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got life insurance policy lic around years ago jeevan saaral good plan benefits policy coverage policy tenure years premium amount rs need pay lic jeevan saaral policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken tata capital credit limit interest rate bit high customer service responses good tenure period years process good smooth processing fee nominal"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using icici credit card service customer support prompt icici credit card service offers cash backs good icici credit card service online net banking easy use lot good options good experience icici credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "hold lic jeevan anand policy past years lic service good customer support service need focus response part policy tenure years pay premium amount rs every months"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience really good bank bazaar customer service responses mark sued mobile application convenient satisfactory faced issues bankbazaar till date pleasant dealing"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "amex credit card service good customer support prompt amex credit card service feel amex needs improve offers cash backs online net banking easy use lot good options good experience amex credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got health insurance policy bajaj policy covers one member actually self policy pay premium amount every month month pay rs policy policy medical coverage lakhs satisfied"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan icici bank loan amount lakh interest rate satisfactory hold aura edge card tenure period years mention insurance amount later detected overall experience good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am using HDFC credit card from last 7 to 8 years, the credit card services are best in HDFC bank. I also get attractive offers like cash back, reward points, EMI options and discounts on online purchase. I am also satisfied with the credit limit which they are giving."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am using HDFC credit card from last 7 to 8 months, the services provided by HDFC credit card is good when compared to all other credit cards. I get good offers like cash back and reward points. The annual fees which i paid for this card is nominal. I use this card for shopping purpose and i am also satisfied with the credit limit."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I hold STANDARD CHARTER bank's credit card for 10 years . The credit limit was 1.79 lakhs and I hold Manhattan international card. The customer service and responses was really good . The validity of the card is till 2017. Here the interest rate and charges are bit high . I am satisfied with the customer service and responses."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "My credit card was taken with CITI bank 10 years back. The credit limit was 2.24 lakhs and I hold master International card . The customer service and responses was satisfactory . The interest rate and chargers are bit high than other banks. They have to improve their online banking system here. My overall experience was not bad."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I do hold Kotak mahindra bank credit card and the response is good one for me. Credit limit value is around seventy thousand Rupees and the mobile application is very good to use, also its really easy to access. Interface is also user friendly."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am using Bankbazaar.com from the last two months of time.Response is good one for me with them and the customer service is good too. I have not faced any such issues with the Bankbazaar.com till now. Mobile application is also good one with them,"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "The credit card service is very good with ICICI bank. I hold the ICICI Ferrari credit card for past 3years. I get lots of benefits with the Ferrari credit card. I am not satisfied with the Ferrari credit limit, still they need to improved the credit limit. I pay Rs,450 as annual fee every year ."
+      },
+      {
+        "intent": "Loan",
+        "text": "I recently took a top up personal loan from HDFC Bank. It was again another easy process. I did not have to do much. There was no documentation involved as I am a existing customer. It was quick and easy to get the loan. I have taken a top up for 1.39 Lakhs and the intere"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "standard chartered credit card service good customer support prompt standard chartered credit card service use receive good offers cash backs online net banking easy use lot good options good experience standard chartered credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got two wheeler insurance policy iffco tokio around years ago paid rs get policy iffco tokio policy tenure years customer support service response good give intimations renew policy time"
+      },
+      {
+        "intent": "Loan",
+        "text": "consumer durable loan taken bajaj months back loan amount interest rate amazing experience hassle free easy approved loan hrs happy customer service responses"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "indusind credit card service good customer support good indusind credit limit sufficient free card charged anything process excellent experience indusind credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "hdfc bank taken life insurance policy tenure period totally years still payed finishing years payments done online good policy use throughout since features policy benefits good"
+      },
+      {
+        "intent": "Loan",
+        "text": "haver two wheeler loan capital first customer service responses really good loan amount interest rate satisfactory customer service responses loan process good hrs hav"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bank bazaar service good got credit card within time frame customer support service response god bank bazaar team use bank bazaar website applying credit card easy use user friendly overall service good bank bazaar"
+      },
+      {
+        "intent": "Insurance",
+        "text": "also hold term insurance lic services good type insurance nominee would get benefits tenure years premium normal options payment also convenient sum assured also good"
+      },
+      {
+        "intent": "Loan",
+        "text": "bank bazaar good platform fro financial products customer service responses mark using website many good options banks interest rate web portal accuracy speed good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "got hdfc bank diners rewardz credit card within days time credit card service quite good credit limit value good card satisfied customers support service response good hdfc bank"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken endowment policy lic customer services response good tenure years type insurance would get profit premium also normal hassles overall experience"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken icici bank loan amount lakh interest rate high tenure period years customer service responses good loan approved time provided door step service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "state bank india credit card service good using sbi credit card past four months customer support prompt sbi rate interest charges fine sbi good experience sbi credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance policy lic last years long term policy make premium payment directly office paid year happy coverage returns policy maturity period policy years"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken idfc bank months back loan amount lakhs interest rate satisfactory customer service responses good process good loan approved time executives helpful In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using icici credit card past four months customer support prompt icici credit card service credit limit also good icici credit card service good experience icici credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insurance policy hdfc ergo last month claimed anything far insurance coverage value insurance policy lakhs satisfied pay insurance premium rs every year"
+      },
+      {
+        "intent": "Loan",
+        "text": "bank bazaar good platform financial products customer service responses good website user friendly easy navigate web portal accuracy speed good overall experience good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "axis credit card service good customer support prompt axis credit card service using axis credit card past years limit offering sufficient interest charges nominal compared others market"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insured iffco tokyo last years claim experience far insurance policy premium rs paid insurance happy coverage value insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken hdfc bank loan amount lakhs interest rate h average customer service responses good process hassle free good sanctioned loan within committed time"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "apply bankbazaar com website easy navigation lot good options customer support good long time came know service bankbazaar com good experience bankbazaar com"
+      },
+      {
+        "intent": "Insurance",
+        "text": "recently taken two wheeler insurance bharti axa general insurance months back coverage value insurance policy satisfactory claimed anything far insurance pay premium rs insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "car loan taken hdfc bank years back loan amount satisfactory customer service responses mark processing fee sanctioned loan committed time preclosure allowed year"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hdfc credit card service good credit limit sufficient life time free card without charges documents process smooth hdfc collected door step customer support responsible good experience hdfc credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india product name lic saral prefer online payments renew policy due date good product among lic products"
+      },
+      {
+        "intent": "Loan",
+        "text": "bank bazaar one stop solution financial products customer service responses really good use website many good options banks interest rate web portal accuracy speed good overall experience satisfactory recommendable"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "customer support bankbazaar com good compared financial websites market apply bankbazaar com website easy use user friendly response also good bankbazaar com good experience bankbazaar com"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company life insurance corporation india annual premium rs reasonable prefer online payments renew policy due date"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken kotak bank loan mount lakhs interest rate average tenure period years process tedious lengthy processing free also high customer service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hdfc credit card service fine comared credit service providers market quoted credit limit k expecting k documents collected door step smooth process average service hdfc credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insured national insurance last year satisfied coverage value insurance claim experience covered premium rs paid every year insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "mostly mobile phone recharges bill payments paytm website secure paytm wallet comfortable using mobile application paytm get discounts recharges helpful service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using rbl credit card years really happy features offer customer support good happy nominal rate interest charges"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insured star health last years aware premium amount company pays health insurance happy coverage value rs lakhs health insurance claim experience far insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "car loan experience good syndicate bank rate interest nominal compared banks process quick received loan amount time loan approved based ex showroom price tenure period loan years"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "apply bankbazaar com website easy navigation lot good options customer support prompt bankbazaar com recently came know service bankbazaar com excellent experience bankbazaar com"
+      },
+      {
+        "intent": "Insurance",
+        "text": "hold two wheeler insurance iffco tokyo years coverage value insurance policy satisfactory claimed anything far insurance policy pay premium rs every year insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm mobile application recharges bill payments easy use application real time getting attractive cash backs coupons vouchers get refund instantly transaction failed faced transaction charges like funds transfers rs per every rs"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "sbi credit card service good credit limit offer k expected k disappointing sbi credit service documents process smooth sbi credit service customer support prompt sbi credit service excellent experience sbi credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance policy lic last years long term policy tenure life insurance policy years pay premium months cheque convenient payment options giving happy coverage returns policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "using services paytm last years services provided paytm quite good compared sources market use service recharge sometimes petrol mobile application paytm user friendly easy use In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bought citi rewards card online application process smooth hassle free customer support also good satisfied fees charges overall recommendable card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken health insurance policy hdfc ergo general insurance annual premium reasonable comparing premiums positive claim experience claim procedure easy simple costumer support good well responsive"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken car loan hdfc bank loan experience good loan amount sufficient nominal interest rate compared banks tenure period loan years charged principal amount preclosing loan"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "apply bankbazaar com website easy navigation lot good options customer support prompt bankbazaar com recently came know service bankbazaar com excellent experience bankbazaar com"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken two wheeler insurance policy vehicle top insurance company bharti axa general insurance received policy document customer support mark annual premium reasonable comparing premiums"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm mobile application since long time interface well sophisticated never seen really easy convenient mobile recharges bill payments recommend paytm services friends relatives totally nice experience"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "american express credit card service good customer support good documents collected door step paperless approval totally excellent experience american express credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken two insurance policy reliance general insurance annual premium rs reasonable comparing premiums received policy hard copy document registered post dint claim experience unable comment"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm services last years get good cash back offers recharges bill payments services provided paytm good compared sources market mobile application paytm user friendly use"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "standard chartered credit card service good offers benefits good standard chartered credit card service rate interest charges fine also uses standard chartered online portal easy navigation good experience standard chartered credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken health insurance policy new india assurance received health card annual premium rs reasonable comparing insurance polices good network top corporate hospitals"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken accidental policy religare recently taken policy months back coverage value accidental insurance lakhs satisfied premium rs insurance claimed anything far insurance"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "standard chartered credit card service good offers benefits good standard chartered credit card service rate interest charges fine also uses standard chartered online portal easy navigation good experience standard chartered credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "hdfc ergo given two wheeler insurance policy renew policy past years customer support service giving intimations renew policy time claim experience hdfc ergo two wheeler insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "super card bajaj finserv last years services provided bajaj good compared sources market gave credit limit rs lakhs sufficient card charge processing fee card"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "recently purchased credit card axis bank much experience service axis customer support prompt axis credit limit sufficient online net banking easy navigation lot good options good experience axis credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance sbi life premium amount years actually taken life insurance since taken home loan state bank india customer service response good"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken consumer durable loan bajaj finserv loan experience good customer service good bajaj finserv respond time sanctioned loan amount immediately rate interest tenure period months"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card sbi credit limit good sbi credit service rate interest charges fine sbi credit service online net banking user friendly average service sbi credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken life insurance policy top public sector insurance company exide life insurance annual premium amount rs reasonable comparing premium products providing non claim bonus benefits"
+      },
+      {
+        "intent": "Loan",
+        "text": "two wheeler loan experience cbi good received loan amount time limited documents required verify taken loan rs nominal interest rate compared others market tenure loan years"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hdfc credit card service good rate interest charges fine hdfc credit card service offers benefits good credit limit good hdfc credit card service customer support good good experience hdfc credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "public policy quite long time long term policy coverage returns policy satisfactory use net banking making premium payments pay premium months maturity period policy years"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken car loan cbi loan experience good loan amount rs lakhs nominal interest rate compared banks loan approved based ex showroom price customer service good tenure period loan years"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold credit card kotak limit hold card fine planning use card month annual charge applicable card waived purchase certain limit got card time"
+      },
+      {
+        "intent": "Insurance",
+        "text": "car insured iffco tokyo year good claim experience covered billed amount policy covers bumper bumper third party damages premium rs paid insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience good cbi mortgage loan process smooth received loan amount time processing fee charged loan tenure period loan years customer service good followed time"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold citi cashback credit card past years terms limit good received cash back reward points card redeemed reward points annual charge card good offers mobile net banking fine"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insured oriental health last years coverage value insurance policy lakhs claimed anything far insurance company aware premium amount company pays"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken consumer durable loan top finance loan partner bajaj finserv interest charges process charges loan say one quickest process sanctioned loan hours"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "best experience citi credit card service credit limit good citi credit service rate interest charges fine citi credit card service online net banking easy use user friendly compared banks market"
+      },
+      {
+        "intent": "Insurance",
+        "text": "max life insurance last years good insurance policy use make premium payments annual basis net banking coverage returns policy satisfactory policy get matured years insurance company"
+      },
+      {
+        "intent": "Loan",
+        "text": "paytm provides good services compared sources market services provided paytm good compared sources market use service recharge bill payments get good cash back offers paytm sometimes face transaction issues paytm In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold hdfc regalia credit card past years received cash back reward points card redeemed reward points annual charge card good offers mobile net banking fine"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance policy lic last years long term policy tenure policy years pay premium months cash convenient payment options happy coverage returns poilicy"
+      },
+      {
+        "intent": "Loan",
+        "text": "using pay tm mobile application service since long time easy pay mobile recharges bill payments dth recharges one good user friendly interface never seen providing attractive cashback"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "use hdfc bank titanium times credit card past years customer support service mark giving support customers need give proper response customers credit limit value good card overall performance need focused"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got two wheeler insurance policy icici lombard general insurance last year customer support service good icici lombard give good response customers paid rs renew policy last time"
+      },
+      {
+        "intent": "Loan",
+        "text": "loan experience axis bank personal loan good process quick received loan amount within days rate interest nominal compared banks customer service mark tenure period loan years"
+      },
+      {
+        "intent": "Loan",
+        "text": "I sometime uses Airtel money payments service. The offers ,benefits and cash backs are good with Airtel. The application is user friendly and easy to use, I uses Airtel service for recharges and dth,it was a excellent experience with Airtel money payment services."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken a personal loan with FULLERTON. The disbursed loan amount was 1 lakhs. The rate of interest with FULLERTON was 12 %. The monthly EMI is 3300 for 4 years.The documentation process was also fine. Its can be recommendable to others."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "started using icici bank platinum chip credit card year credit limit value good card satisfied use card purchases benefits like reward points cash back offers also available icici bank platinum chop credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got car insurance policy bharathi axis general insurance company around months ago paid around rs get policy year policy covers bumper bumper benefits policy coverage good policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm service since long time providing attractive cashback make payments platform use paytm mobile application prepaid recharges mobile bill payments user interface easy faced failed transactions making payments platform"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "documents collected time citibank executives credit card process average citibank need quick fast response days since got confirmation citibank regards credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance corporation india service good customer service good life insurance corporation india payments online new schemes offers good use update regularly good experience lic"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm services last years get good cash back offers paytm sometimes use service mainly recharge bill payments services provided paytm good compared sources mobile application easy use user friendly"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold elite credit card sbi got reward points card annual charges card useful card time sbi good offer excellent card travelers customer service card good"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance lic service good lic two policy lic tenure period years eight years completed taken service lic new schemes offers good lic payments online good experience lic"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken personal loan citi bank approved loan amount lakhs rate interest annually diminishing every emi payment approval time processing fee principle amount"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "uses bankbazaar com website easy use user friendly customer support service good bankbazaar com long back came know service bankbazaar com good experience bankbazaar com"
+      },
+      {
+        "intent": "Insurance",
+        "text": "service star health insurance service good payment paid company offers star health insurance covers top hospitals still claimed service star health insurance service average service star health insurance service"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken personal loan sbi approved loan amount lakhs took loan closed january rate interest emi flexible service really good process also quick"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "bank bazaar service nice got financial products help bank bazaar supportive helpful well know bank bazaar years use bank bazaar website mobile application easy use user friendly"
+      },
+      {
+        "intent": "Insurance",
+        "text": "service lic good customer support prompt lic unable remember whole benefits policy overall good future investments payments cheques years taken service lic"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm service since long time providing attractive cashback make payments platform use paytm mobile application prepaid recharges mobile bill payments user interface easy faced failed transactions making payments platform"
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 38,
+            "end": 45,
+            "value": "Benaras",
+            "entity": "Location"
+          }
+        ],
+        "text": "got hsbc visa platinum credit card ib Benaras within days time approval whole process took month time hsbc customer support service good came place collect documents time credit limit value good card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "taken credit card hdfc activated heath insurance hdfc ergo total policy coverage lakhs hospitalized claim upto covers family well reimbursement option well auto debited salary account"
+      },
+      {
+        "intent": "Loan",
+        "text": "transactions charges paytm payments bank ltd mobile application customer support service response good paytm mobile application use paytm mobile application fund transfers bill payments usages"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hold axis bank credit card satisfied limit get cash back card get discount flipkart annual charge comfortable net banking mobile banking customer servie response bank good"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance service good lic jeevan life insurance policy past years policy tenure years pay premium amount rs every months plan benefits policy coverage good policy"
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "Gujarat",
+            "entity": "Location"
+          }
+        ],
+        "text": "got personal loan Gujarat hdfc bank around years ago took around day time deliver credit card customer support service response good hdfc bank rate interest charges average hdfc bank personal loan service"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "american express credit card service good customer support good documents collected door step paperless approval totally excellent experience american express credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "entities": [
+          {
+            "start": 14,
+            "end": 21,
+            "value": "Mumbai ",
+            "entity": "Location"
+          }
+        ],
+        "text": "car insurance Mumbai national insurance last years good coverage value car insurance claim experience far car insurance premium rs paid car insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "use paytm mobile application past years customer support service average paytm give average service customers use shopping bill payments recharges usages cash back offers given paytm transparency seen paytm process"
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 43,
+            "end": 50,
+            "value": "Mumbai ",
+            "entity": "Location"
+          }
+        ],
+        "text": "started using citibank rewards credit card Mumbai recently got card within week time credit limit value low citi rewards credit card would good increase credit limit value would say average card use"
+      },
+      {
+        "intent": "Insurance",
+        "text": "using lic since find services provided lic good compared insurance policies pay premium annual basis net banking sometimes cheque coverage value accident health satisfactory maturity period policy years"
+      },
+      {
+        "intent": "Loan",
+        "text": "good experience bank bazaar customer service responses really satisfactory used mobile application amazing got many good options used credit score option check credit score nutshell entire experience really good"
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 12,
+            "end": 18,
+            "value": "Mumbai",
+            "entity": "Location"
+          }
+        ],
+        "text": "bank bazaar Mumbai service good ever login product got good response bank bazaar team customer support service response good bank bazaar team would say got good service bank bazaar"
+      },
+      {
+        "intent": "Insurance",
+        "text": "renewing two wheeler insurance policy new india assurance company renew th time claim experience new india assurance two wheeler insurance policy would say policy better use"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan icici bank loan amount lakh interest rate satisfactory customer service responses mark process hassle free faced issues process got delayed weeks"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hsbc bank executives came place collect documents took around days time deliver credit card credit limit value average hsbc bank visa platinum credit card would say satisfied"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance policy good use lic hold past years customer support service good lic paid premium amount year present paying premium life insurance policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan hdfc bank years back loan amount interest rate bit high tenure period months possessing fee high whole process quite good pre carouser allowed one year In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hdfc credit card service good customer support prompt hdfc credit limit comfortable needs improve communication lack providing information totally average service hdfc credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "public policy one best life insurance policy use using lic last years long term policy pay premium every month ecs payment options convenient tenure period life insurance policy years"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken icici bank loan amount interest rate satisfactory customer sere responses mark receive actual documents bank bit disappointing sanctioned loan committed time"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "sbi platinum advantage credit card years customer support service good wit state bank india credit limit value good card satisfied annual fee sbi platinum advantage credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insurance policy icici lombard last years one best insurance policy use gave coverage value rs lakhs insurance claim experience good covered billed amount pay insurance premium rs every year"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken personal loan bank bazaar customer service responses mark website many good options banks interest rate website issues friendly easy navigate faced run time time error using site In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "use icici bank coral credit card past years customer support service response good icici bank credit limit value good card annual fee icici bank coral credit card satisfied using icici bank coral credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "public policy last years long term policy pay premium annual basis net banking convenient payment options happy coverage returns policy maturity period policy years"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan hdb finance loan amount lakhs interest rate average tenure period years processing fee good executives helpful sanctioned loan within committed time In [ ]:"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "fully satisfied bank bazaar service regards credit card application know bank bazaar months customer support service response good bank bazaar team got immediate call back bank bazaar customer service team applying credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insured max bupa insurance last years good coverage value rs lakhs health insurance aware premium amount company pays taken cashless treatment claim experience far"
+      },
+      {
+        "intent": "Loan",
+        "text": "got paytm payments bank ltd mobile application around years ago customer support service mark paytm mobile application present using paytm mobile application try reaching customer care"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "indus bank credit card good use got credit card within days time credit limit value low card would say still need increase credit limit value customer support service response good indus bank"
+      },
+      {
+        "intent": "Insurance",
+        "text": "hold life insurance policy idbi federal life insurance last years long term policy tenure insurance policy years pay premium every month ecs payment options convenient coverage value good insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "got personal loan hdfc bank around years ago customer support service response good hdfc bank gave good response regards personal loan application got loan amount within days time"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using services bank bazaar since months find useful lot options available financial products easy compare choose easy browse website happy taken services happy response got know line tool"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insured magma insurance last year premium rs paid every year insurance policy taken claim experience far insurance satisfied coverage value insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken credit card bank bazaar customer service respo nses really good faced nay issues service used website good options informative accuracy good overall experience satisfactory"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card sbi satisfied card good limit card annual charges also ok issues plus features benefits card holding also good could give rating credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "recently taken two wheeler insurance iffco tokyo month back happy coverage value insurance claimed anything far insuranc pay premium rs insurance policy"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card hdfc bank like credit card lifetime free credit card gives good benefits reward points shopping line line getting good limit card happy credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insured hdfc ergo years one good insurance policy use claimed anything far insurance coverage value insurance pay premium rs"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken axis bank years back loan amount lakh interest rate average tenure period years customer service responses really good processing fee also nominal pre closer years"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "taken credit card indusind bank got good limit card lifetime free credit card issues card features benefits card could little better would give rating equally good credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "health insured tata aia insurance last month premium amount insurance rs paid every year claim experience far insurance coverage rs lakhs insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience really good bank bazaar customer service responses quite good faced run time time error using website informative user friendly options useful would like recommend others"
+      },
+      {
+        "intent": "Loan",
+        "text": "Bank bazaar customer care called me back immediately on the same day. Bank bazaar website is very easy to access and user friendly. I didn't use bank bazaar's mobile application so far. Apart from this everything was fine with bank bazaar and it is a good service for the people"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "sbi credit card card good provide features like cost emi interest rate card also less satisfied limit offered benefits getting also good issues credit card"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insurance policy lic last years long term policy happy coverage returns policy pay premium net banking annual basis convenient payment options maturity period policy years"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken w ith fulleron loan amount lakhs interest rate high market tenure period years customer service responses mark processing fee nominal overall experience good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "citi credit card service good credit limit sufficient rate interest charges fine also uses online net banking easy use user friendly customer support good citi credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got health insurance policy national insurance company around months ago policy offered company policy covers members family parents policy medical coverage rs"
+      },
+      {
+        "intent": "Loan",
+        "text": "paytm provides good services compared sources using paytm services recharge bill payments money transfer charges money transfer face transaction issues mobile app paytm user friendly easy use"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card hdfc bank satisfied credit card getting good limit card services good never faced issues happy get good benefits shopping card line line line portal flipkart amazon reward points good well"
+      },
+      {
+        "intent": "Insurance",
+        "text": "car insurance hdfc ergo last years happy coverage valye policy cover bumper bumper well third party damages claimed anything far insurance premium amount insurance rs"
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have taken a two wheeler insurance.The premium amount is 1800 agents comes to my place and collects the cash from me.its very convenient.The policy coverage amount of Rs 40,000.The customer service is good and they respond on time,its good policy to take."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card hdfc bank satisfied credit card getting good limit card services good never faced issues happy get good benefits shopping card line line line portal flipkart amazon reward points good well"
+      },
+      {
+        "intent": "Insurance",
+        "text": "car insurance hdfc ergo last years happy coverage valye policy cover bumper bumper well third party damages claimed anything far insurance premium amount insurance rs"
+      },
+      {
+        "intent": "Loan",
+        "text": "experience hdfc bank car loan good loan amount sufficient rate interest nominal compared banks documents collected time customer service good new car tenure period years"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "taken credit card kotak mahindra bank services good satisfied good thing card lifetime free dont worry fees charges credit card could useful time perspective happy"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got life insurance policy max life insurance company around years ago bough policy daughter policy validity got next months plan benefits coverage good plan benefits pay rs premium amount month month"
+      },
+      {
+        "intent": "Loan",
+        "text": "two wheeler loan taken year back loan amount lakh interest rate average tenure period months provided door step service collecting documents customer service responses realy good would like recommend others"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "standard chartered online net banking easy use user friendly compared credit service providers market credit limit good standard chartered credit service good experience standard chartered credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got money back life insurance policy max life insurance company around years ago customer support service response good policy tenure years plan benefits policy coverage good policy"
+      },
+      {
+        "intent": "Loan",
+        "text": "home loan axis bank taken years back loan amount lakhs interest rate average tenure period years process really good documentation process really easy fees charges high"
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have this Health Insurance for over a year now. The coverage is for 4 member among your family. The total coverage for the plan is around Rs.2 Lakhs, which I feel is a good back up for Health emergencies. The overall plan offered to me was pretty impressive."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "taken credit card indusind bank card good got good limit card using since months find card smooth terms transactions payments benefits offers card also user friendly"
+      },
+      {
+        "intent": "Insurance",
+        "text": "got two wheeler insurance policy hdfc ergo got policy around year ago customer support service good hdfc ergo give intimations time renew policy paid rs renew policy last year"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken credit card via bank bazaar customer service responses quite good used website ha many good options even tried using tools like emi calculator credit score options useful"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "service icici credit card service good customer support good icici credit card service credit limit sufficient rate interest charges compared others market icici online net banking easy use user friendly b"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insurance hdfc ergo last years happy coverage value policy claimed anything far insurance policy aware premium insurance renewed every year"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken hdfc bank loan amount lakhs interest rate average market tenure period years process really good hassle free loan approved time overall experience good"
+      },
+      {
+        "intent": "Loan",
+        "text": "My personal loan was taken with AXIS BANK 8 months back. The customer service and responses was good. The loan amount was 4 lakhs and the interest rate was 9% which was satisfactory .The customer service and responses was good. The processing fee was 3"
+      },
+      {
+        "intent": "Loan",
+        "text": "My personal loan experience with Syndicate bank was good, the process was quick and i received my loan amount on time. The loan amount was for Rs 1 lakh with nominal interest rate when compared to other banks. There was no processing fees and hidden charges for this loan. The tenure period of this loan is 1 year."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "using bank bazaar since half month good experience easy look products decide products many options available happy used line tool got good customer service well"
+      },
+      {
+        "intent": "Insurance",
+        "text": "life insured lic last years happy coverage returns policy aware maturity period pay premium every year policy pay premium net banking payment options convenient"
+      },
+      {
+        "intent": "Loan",
+        "text": "taken car loan hdfc approved loan amount lakhs rate interest nominal monthly emi comes around tenure years document process simple processing fee"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "apply bankbazaar com website easy navigation lot good options customer support prompt bankbazaar com recently came know service bankbazaar com excellent experience bankbazaar com"
+      },
+      {
+        "intent": "Insurance",
+        "text": "company provided health insurance star health last months happy coverage value rs lakhs health insurance policy claim experience far insurance premium insurance paid company"
+      },
+      {
+        "intent": "Loan",
+        "text": "personal loan taken citi bank loan amount lakhs interest rate average tenure period years v process good documentation also easy customer service responses good"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "hdfc credit card service good credit limit sufficient rate interest charges fine hdfc credit service customer support prompt hdfc excellent experience hdfc credit card service"
+      },
+      {
+        "intent": "Insurance",
+        "text": "lic one amongst life insurance policy compared others market using policy last years long term policy coverage ad returns good policy premium gets auto deducted every month salary account maturity period policy year"
+      },
+      {
+        "intent": "Loan",
+        "text": "using paytm services last years services provided paytm good compared sources market use service mainly recharge bill payments find transaction issues get good cash back offers paytm"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "credit card sbi bank credit limit offered rs expecting around rs services bank card good see issues benefits features card also good satisfied"
+      },
+      {
+        "intent": "Insurance",
+        "text": "two wheeler insurance icici lombard last years happy coverage value policy claimed anything far insurance premium rs paid every year insurance"
+      },
+      {
+        "intent": "Loan",
+        "text": "bank bazaar one stop solution financial products customer service responses mark website really good options banks interest rate website suer friendly easy navigate overall experience good"
+      },
+      {
+        "intent": "Loan",
+        "text": "I got the timely response from bank bazaar team. The customer support was prompt with the bank bazaar. I know bank bazaar for more than 4 years. I use bank bazaar mobile application which is easy to use and customer friendly. I am satisfied with the bank bazaar service.I got the timely response from bank bazaar team. The customer support was prompt with the bank bazaar. I know bank bazaar for more than 4 years. I use bank bazaar mobile application which is easy to use and customer friendly. I am satisfied with the bank bazaar service."
+      },
+      {
+        "intent": "Loan",
+        "text": "The service was good with the ICICI bank in concern to my personal loan application and they took 3 days of time , their customer support was good with the ICICI bank . The required loan amount has been disbursed and I am satisfied with it. The rate of interest and the charges are nominal when compared with others."
+      },
+      {
+        "intent": "Loan",
+        "text": "For quite some time I had been using the services of Bankbazaar.com ,I applied on this Bankbazaar.com website the site is easy for navigation with lot of good options and the customer support was good with Bankbazaar.com,it was a good experience that I had with bankbazaar.com overall."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have a life insurance service with State bank of India and I have taken two policy with State bank of India and I use to renew according to my term period also they update me regarding new schemes and offers it was a good experience with State bank of India life insurance department."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have taken a two wheeler insurance service from bajaj directly from the showroom and yearly they will deduct from my savings account through ecs ,the staffs where good. The documents have been collected directly from the showroom it was a average service from bajaj for my scooty bike insurance service."
+      },
+      {
+        "intent": "Loan",
+        "text": "Airtel wallet is little complicated to use, they do have cash back. But only for bill utility, recharge etc. They charge high tax on the billing and they wont maintain constant offers on postpaid packs. How ever for Airtel Wallet there is no balance maintenance required."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken mutual fund plan with ICICI, which is very good. I have been paying rs 2500 every month towards my plan. There customer Service with them is good and satisfactory to me. They offered a many plan were I would be benefited. Overall a great experience."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken mutual fund plan with ICICI, which is very good. I have been paying rs 2500 every month towards my plan. There customer Service with them is good and satisfactory to me. They offered a many plan were I would be benefited. Overall a great experience."
+      },
+      {
+        "intent": "Insurance",
+        "text": "Taken my life insurance with BHARTI-AXA LIFE INSURANCE, their response is great with them and I have not faced any issues with them till now. I have completed 10 years with them. Responsiveness and other features are really better one with the BHARTI-AXA LIFE INSURANCE."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have taken a Two Wheeler Insurance with Iffco Tokio,The premium amount is Rs3000 paid once in a year.I have been using the policy for more than three years.I get a policy coverage of Rs 50,000.Online service is very comfortable to make the premium payment."
+      },
+      {
+        "intent": "Insurance",
+        "text": "My relative is into Life Insurance Corporation of India and he deals with all of my life insurance things. I have felt the offers that I got is far better than any other competitors in the field. I really do feel this is a good investment that I have made."
+      },
+      {
+        "intent": "Insurance",
+        "text": "My relative is into Life Insurance Corporation of India and he deals with all of my life insurance things. I have felt the offers that I got is far better than any other competitors in the field. I really do feel this is a good investment that I have made."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I am having the New India 2wheeeler insurance policy for past 10years. The service is good with New India assurance. I paid more than Rs,1000 to renew the policy last year. The customer support is good with New India assurance. They give intimations to renew the policy on time and I am satisfied with their service."
+      },
+      {
+        "intent": "Loan",
+        "text": "I got the immediate response from Bank Bazaar, when I put a request for the personal loan. Service part is also good, their executive called and guided through out the personal loan process. They also helped to resolve to all my financial queries."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "The amazing race and it is working very well for normal people .I am proud to be a customer of bank bazaar .The Indian good communication and it is a great certification company. Paperless is mandantory therefore I would like to 10/10 for bankbazaar.com."
+      },
+      {
+        "intent": "Loan",
+        "text": "Fake people always changing there already agreed interest rates and bargaining before amount disbursal. Very pathetic customer approach and slow processing. It took 2 weeks for me to get a car loan and changed already agreed interest rate just before amount dusbursal, hated it and it is very bad."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am using my ICICI platinum card for the long time the service was very fine they use to add reward points and use to provide me with good offers also the customer service is good ,the service is average from ICICI, I am very much happy about ICICI service."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "SBI customer service is not good, Number of times I called them but they was no response from their end for any queries. SBI is also taking lot of charges for the credit card transactions. Even their payment gate is also bad and its take long time to reflect the payment."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am using HDFC money back credit card from 2016 the service from HDFC will be very good also the offers are nice customer service was awesome and the offers are very good with HDFC, it was a a very good experience with HDFC for my credit card service."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken my loan via BANK BAZAAR . The customer service and responses was up to the mark. The website was user friendly and easy to navigate. I have not faced any run time or down time error while using it. My overall experience was good and I would like to recommend this site to others."
+      },
+      {
+        "intent": "Loan",
+        "text": "I got more than 4 products from bajaj finserv consumer durable loan. The customer support response need to be quick and fast from the bajaj finserv consumer durable loan. This loan comes with the No cost EMI and I am satisfied with the bajaj finserv consumer durable loan."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I had a two wheeler insurance policy from the insurer BHARTI AXA GENERAL INSURANCE. I appreciate their customer care services because they intimates me to renew my two wheeler insurance before due date. The service is good and i can recommend their services to my friends."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have a Bajaj Passion pro bike and found this Insurance from the company itself. For the amount of premium I am paying the coverage are pretty good. The reason I have selected is that both my Bike and Insurance are from the same company which would make claim a lot easier if needed."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have taken a Two wheeler Insurance with Bajaj Allianz.The premkum amount is 2000,they give a good policy coverage amount as it is in comprehensive basis.I have taken this policy last ten years back,i make payment cash directly."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I am having a health insurance with HDFC Ergo. It was taken by last January. The customer service was good. There was no claim experience till now and haven't used the cashless facilities. The policy coverage was 4,80,000 rupees. They deducting monthly around 600 rupees for the premium."
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 33,
+            "end": 49,
+            "value": "5457623898234113",
+            "entity": "Credit card Number"
+          }
+        ],
+        "text": "I have a credit card with number 5457623898234113 with Bak Bazaar. It has been a good experience so far with cashback and offers."
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 25,
+            "end": 41,
+            "value": "4321567890121234",
+            "entity": "Credit card Number"
+          }
+        ],
+        "text": "My credit card number is 4321567890121234. It is with the Axis Bank. I have had a good experince so far and have received food vouchers."
+      },
+      {
+        "intent": "Insurance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 33,
+            "value": "998654327712",
+            "entity": "Bank Account Number"
+          }
+        ],
+        "text": "My account number is 998654327712. I have an insurance policy with HDFC live. It is good."
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 26,
+            "end": 36,
+            "value": "9987234561",
+            "entity": "Bank Account Number"
+          }
+        ],
+        "text": "My bank account number is 9987234561. I have a loan with Axis bank.It is good."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have taken a Health insurance with United India Insurance.The premium amount is 6000 per annum.I have no claim experience with them,they had covered 100% cashless treatment.The policy is three lakhs including family members.I am happy using this insurance."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken a Consumer Durable loan with Bajaj Finserv.The loan amount is 35,000.I have no interest rate or processing fees with Bajaja,they are very immediately processing the request its always convenient o take product through an online portal.The tenure is for 9 months."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have a health insurance policy with Sundaram insurance from last 1 month and it is a good insurance policy to use. I have to pay a premium of Rs 6800 every year. I do not have claim experience so far and i have not taken any cashless treatment. I have a coverage of Rs 3 lakhs and I am with the plan benefits of this polic"
+      },
+      {
+        "intent": "Insurance",
+        "text": "'I am having the life insurance policy with the Kotak mahindra old mutual life insurance company. I would like to say that the customer service is okay one for me and the coverage value is not yet aware. Premium amount is nominal one for me with them."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken a two wheeler loan with HDFC bank and the loan experience was very good. I pay an EMI of Rs 4300 every month and it has to be paid for next 36 months. The process was quite long and it took time to receive the loan amount. Customer service was good and they responded"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I had applied and got the INDIAN OIL CITI PLATINUM CARD through a on line partner. I can say it is the perfect credit card for Fuel. I got a lot of rewards points while i swipe the card in FUEL STATIONS and shopping purposes also. I recommend this credit card for Travelers."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I would like to say HDFC Diners Rewards credit card is good because of their credit points. I would like to say that the customer service is great one for me and the benefits are best one for me with the HDFC bank Diners Rewards credit card."
+      },
+      {
+        "intent": "Loan",
+        "text": "'I have the Demat account with the HDFC bank and the brokerage charges are expensive one. Day trading services are okay and it does not works in great and the delivery trading is also really good one with the Demat account."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have been using the service for last few years.The service is good.I use it for recharges,to book movie tickets,money transfer etc.The website is easy to understand. I stopped using the website for no reason otherwise its good i would recommend to others."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have chosen Liberty Videocon because of the lower premium and they offering a health insurance for me which was satisfactory. I had purchased my bike with Videocon by last week. It was taken through online. The policy coverage and plan benefits are better."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have got the medical claim with the New India assurance health insurance which is provided by my company. I have the claim amount up to 70% to 80%. I have got the claim within 3weeks of time. The medical coverage is available up to 1 lakh. This policy covers 3members in my family."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "The support team is very prompt and active communication on both sides between customers and the bank partners. I know bank bazaar for the past 3 months. I came to know about bank bazaar through google web search. I have used the bank bazaar website and it is really easy to use."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "The credit card service was good with the HDFC bank and I have got the Rewards credit card from HDFC bank within a week time. I am satisfied with the credit limit value , because they have given high credit limit. The annual fee of Rs,850 need to paid to this card."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I am holding a credit card of HSBC bank.The limit on the card is 66,000.I have got a life time free card.I have started using the card.I have got the best offers for shopping,net banking is very user friendly.I earn reward points on every purchase."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I have my credit card approved with HSBC bank and the experience was quite good. The process was smooth and i received my credit card within 10 days. I have a credit limit of Rs 52000 which is sufficient for this credit card. There is no annual fee charged for this credit card. Custome"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "The support team is very prompt and active communication on both sides between customers and the bank partners. I know bank bazaar for the past 3 months. I came to know about bank bazaar through google web search. I have used the bank bazaar website and it is really easy to use."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I hold a credit card with Standard Chartered Bank and the banking services are good. There are good deals and offers and there are no charges related. There are a lot of offers online too, and my transactions goes through smoothly. The limit is good too."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "Before ten years I had a CITI bank credit card then I closed the card because my business was flopped at the time. Again I joined in other company I paid the dues. CITI bank customer service was good they gave me prompt service and also their offers was good."
+      },
+      {
+        "intent": "Loan",
+        "text": "Bank Bazaar is a best option for the loan seeker. People can go head and take the right loan products , whatever information I was looking earlier. Bank Bazaar executive gave me accurate information, even the website is good and easy to navigate."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "The credit card offers at HDFC Bank has been good and the I am happy to bank with them for the same. I am informed on a regular basis about the ongoing deals and the billing cycle is also comfortable to me. The payments can be done online conveniently."
+      },
+      {
+        "intent": "Loan",
+        "text": "The bank bazaar is doing a good customer service. It is a good platform for the financial products. It is the easiest way to approach the bank with best offers. The website was good and user friendly. I would like to recommend this website to others."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "It was a good experience with bankbazaar so far, they provide good services when compared to all other sources in the market. I know bankbazaar.com from last 7-8 months. Customer service was good and their response was prompt. I am using the mobile application of bankbazaar , i find it easy to access and is user friendly. I also check my credit score in this app."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "My credit card application was approved with CITI bank and the experience was very good. I have a credit limit of Rs 50000 which is sufficient and i received my credit card within a week. The process was smooth and they provided door step service to collect the documents. This is a lifetime free credit card. I get limited offers like cash back in this credit card. I use this credit card for filling petrol and for shopping purpose."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "Bankbazaar provides good services on financial products when compared to all other sources in the market. I know bankbazaar.com from last 2 years and my experience was good so far. Customer service was good and their response was prompt. The mobile application is easy to use and is user friendly."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have a LIC policy from last 7 years and i have both money back and long term policy. The tenure for long term and cash back is 20 years. I get a cash back after every 5 years. I pay my premium on annual basis through online and the payment options are convenient for me. I am happy with the coverage and benefits of this policy."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I hold a two wheeler insurance with ICICI lombard from last 8 years and it is a very good policy to use. I pay a premium of Rs 1500 and this policy has to be renewed every year. I do not have claim experience with this insurance so far. Customer service is good and they are very helpful. The coverage and benefits are good in this policy."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I know bank bazaar very long time, but I have used it very recently. I came to know about bank bazaar through promotional emails. At places I got stuck in bank bazaar website but the customer support of bank bazaar helped me to get the credit card in a easiest way,"
+      },
+      {
+        "intent": "Credit Card",
+        "text": "For a couple of years, i am using the credit card of STATE BANK OF INDIA . The Customer service is good from the bank side , the bank gave me a credit limit of 50K and gave me a cash withdraw option . There is no balance transfer option not there on the card . It is a Simply save card of SBI"
+      },
+      {
+        "intent": "Insurance",
+        "text": "I feel having a Life Insurance is pretty important and having it in LIC is even more important. Earlier I recieved Rs.1 Lakh cashback and this time I have applied for Rs3 Lakh shceme. I felt this is something everyone should have and be maintaining properly."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I am having the life insurance policy with the HDFC life and the customer service is fine with them , also I have not faced any issues with them till now and I have not made any claims with as such. Premium is a kind of okay one for me."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I am having the United India 2 wheeler insurance for past 4years . The policy service is good with united India. The customer support is good with United indie, they give good reminders to renew the policy on time. I paid Rs,1200 to renew the policy, The plan benefits and the coverage is good with this policy.,"
+      },
+      {
+        "intent": "Loan",
+        "text": "My durable loan is with BAJAJ FINANCE which was taken 1 year back. The loan amount was 60,000 and the interest rate was 0%. Here pre closure is there but no chargers . There is no additional charges or hidden charges here. The customer service and responses was not so good because they are keep on calling me. The loan process was easy and no processing fee also so Its recommendable ."
+      },
+      {
+        "intent": "Insurance",
+        "text": "Bought the Max life insurance policy around 5 years ago. The plan benefits and the coverage is better with this policy . The customer support is good with this policy. I pay the premium of Rs,33,000 every year. I am satisfied having the max life insurance policy."
+      },
+      {
+        "intent": "Loan",
+        "text": "This is not my first experience with Bank bazaar. The customer service and responsiveness is always excellent here but from last one week I could reach them to know my application status. The website is very informative and easy to understand . My overall experience was good here."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I have the Citibank rewards credit card for more than a year. The customer support is average with the credit card department . I am satisfied with the credit limit. The rate of interest and the charges are nominal with Citibank, they need to reduce the charges."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have bought gold from the MUTHOOT FINANCE by lending my old gold in the gold loan process. The customer support service and the response is good with the MUTHOOT FINANCE gold loan service. The retired people are the managers of the MUTHOOT FINANCE limited.The rate of inter"
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken a loan of a considerable amount from Axis Bank to start my business.It has a less rate of interest and is good at dispatching money quickly. I am also satisfied with my insurance policy from there."
+      },
+      {
+        "intent": "Insurance",
+        "text": "'I have an insurance policy with Yes bank for the past two years. My credit card is also from YES bank.I must say it has been a good experience."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I hold a Coral platinum credit card with ICICI bank with a limit of 2.5 lakhs. I am satisfied with the limit but i wish to increase the limit. I do get cash back and reward points with the card. There is no annual charge with the card.The customer service and response is good."
+      },
+      {
+        "intent": "Insurance",
+        "entities": [
+          {
+            "start": 297,
+            "end": 303,
+            "value": " Delhi",
+            "entity": "Location"
+          }
+        ],
+        "text": "It was taken directly from the showroom two wheeler insurance from UNITED the payments was also direct the process was very fast and easy the documents was fine it was been nine years I have avail the service from UNITED for my two wheeler insurance service it was a good experience with UNITED in Delhi."
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 53,
+            "end": 60,
+            "value": "Mumbai ",
+            "entity": "Location"
+          }
+        ],
+        "text": "I hold a credit card with Standard Chartered Bank in Mumbai from last 2 years, the services provided by SCB is good when compared to all other credit cards. They did not charge any annual fee at the time of getting this credit card. I get offer like 20% cash back on Uber. I use net banking for making"
+      },
+      {
+        "intent": "Insurance",
+        "entities": [
+          {
+            "start": 52,
+            "end": 60,
+            "value": "Gujarat.",
+            "entity": "Location"
+          }
+        ],
+        "text": "I have taken a Car insurance with Bajaj Allianz. in Gujarat.The premium amount is 16,000 paid once in year.I have very a claim experience with them,they had asked to me to pay the amount soon after the accident and did not cover a good amount,they made me to wait for so many days t"
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 283,
+            "end": 290,
+            "value": "Kolkata",
+            "entity": "Location"
+          }
+        ],
+        "text": "The service was done in a good way by the HSBC bank executives, but the bankers are not up to the mark with the HSBC bank. The HSBC bank has rejected my credit card application saying that my address getting mismatched. The customer support need to be improved with the HSBC bank in Kolkata."
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 170,
+            "end": 179,
+            "value": "Ahmedabad",
+            "entity": "Location"
+          }
+        ],
+        "text": "I have taken Personal Loan from HDFC bank, the loan amount was for Rs 2.5 lakhs with the rate of interest of 14.5% which is very high when compared to all other banks in Ahmedabad. The process was quite long and it took 15 days to receive the loan amount. Customer service was not up to the mar"
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 242,
+            "end": 250,
+            "value": "Vadodara",
+            "entity": "Location"
+          }
+        ],
+        "text": "I had applied for a home loan with State Bank Of India but did not proceed with the application as i had changed my decision and decided to get my funds from a different source. I would however like to say that my experience with the bank in Vadodara was good in terms of the customer service and response. I was satisfied with the information that i received in return for my queries."
+      },
+      {
+        "intent": "Insurance",
+        "entities": [
+          {
+            "start": 116,
+            "end": 125,
+            "value": "Jharkhand",
+            "entity": "Location"
+          }
+        ],
+        "text": "Every six months I make the premium o f Rs.6000 for Jeevan Anand policy, its gives the tenure period of 20 years in Jharkhand. After particular year, I will get the sum assured amount around Rs. 2.5 lakhs, and it gives entire life cover. My family will get reimbursement after me."
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 58,
+            "end": 66,
+            "value": " Mumbai ",
+            "entity": "Location"
+          }
+        ],
+        "text": "I have taken a consumer durable loan from Bajaj Finserv in Mumbai and they provide excellent services. The customer care is good and they are very responsive. I also have an EMI card to make my purchases more easier. I do not have to submit my paperwork repeatedly because of the EMI card."
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 42,
+            "end": 49,
+            "value": "Mumbai ",
+            "entity": "Location"
+          }
+        ],
+        "text": "I am using Citi Indian Oil Credit Card in Mumbai for more than a year. They offering a good service and its good to use. They charged annual fee of 499 rupees. I am getting discounts on fuel filling and I get 4 turbo points on the spend of 150 rupees. The payment option was easy and simple."
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "Mumbai",
+            "entity": "Location"
+          }
+        ],
+        "text": "Bank Bazaar, Mumbai gave me proper customer's interaction with fast action, when I reached the portal for the credit card queries. I instantly got the reply from their executive, the website is good to navigate to compare different cards which is there in the market and more than all your customer service team is very good."
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 22,
+            "end": 27,
+            "value": "Delhi",
+            "entity": "Location"
+          }
+        ],
+        "text": "For about 3 months,in Delhi, I had been using ICICI credit card, it has good credit limit with better features. But I would like to suggest they should provide balance transfer option to transfer the money. But their credit card has EMI and cash withdrawals option is also there."
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 92,
+            "end": 99,
+            "value": "Lucknow",
+            "entity": "Location"
+          }
+        ],
+        "text": "I have been using the website for 6 months. This is not a first time with bankbazaar.com in Lucknow. The customer service and response was good. I was using their online website as it was simple to access and the options there are good. I had checked my credit score too."
+      },
+      {
+        "intent": "Insurance",
+        "entities": [
+          {
+            "start": 40,
+            "end": 48,
+            "value": " Kolkata",
+            "entity": "Location"
+          }
+        ],
+        "text": "My two insurance is with United India in Kolkata for 10 years. The customer service was good. I am happy with the benefits. I am using Honda passion pro bike. They used to send the statements on time, it was delivered to my home address. I pay the premium by cash to the office directly."
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 203,
+            "end": 212,
+            "value": " Chennai ",
+            "entity": "Location"
+          },
+          {
+            "start": 64,
+            "end": 70,
+            "value": "Mumbai",
+            "entity": "Location"
+          }
+        ],
+        "text": "It was been a good experience with AXIS for my personal loan in Mumbai service documents have been door step but I feel the interest rate they quoted me was little high compare to others in the market in Chennai and it have been two years I have started to use the service of AXIS."
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 239,
+            "end": 244,
+            "value": "Delhi",
+            "entity": "Location"
+          },
+          {
+            "start": 63,
+            "end": 70,
+            "value": "Mumbai ",
+            "entity": "Location"
+          }
+        ],
+        "text": "I had applied for a personal loan with Aditya Birla Finance in Mumbai limited for an amount of seven lakhs.Rte of interest is high as compared to others.Post applying i did not receive any kind of an update from them not even an alert. in DelhiThey don't show an interest to collect the documents."
+      },
+      {
+        "intent": "Insurance",
+        "entities": [
+          {
+            "start": 393,
+            "end": 398,
+            "value": "Delhi",
+            "entity": "Location"
+          }
+        ],
+        "text": "worst experience i have had with an insurance company. I had an ACL operation which was 255000 my coverage was of 5 lakhs they only paid 160000 and added its according to GIPSA and kept on rejecting my claim.GIPSA is between the hospital and the insurance company which i told them but unrealistic response from them ..will advice any one never to go for this as they are very unrealistic  in Delhi when the time comes to act.."
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 288,
+            "end": 293,
+            "value": "Delhi",
+            "entity": "Location"
+          },
+          {
+            "start": 74,
+            "end": 82,
+            "value": " Mumbai ",
+            "entity": "Location"
+          }
+        ],
+        "text": "Had a good experience with bank bazaar.I have been browsing the website in Mumbai for more than six months.I get an immediate response from the executives.My suggestion to bank bazaar, should share the status of the application as there is a much delay in response from the bank's end in Delhi."
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 234,
+            "end": 239,
+            "value": "Delhi",
+            "entity": "Location"
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "value": " Mumbai",
+            "entity": "Location"
+          }
+        ],
+        "text": "Bank bazaar Mumbai is the good platform to know the updated information regarding financial products.I need not visit different banks to get the details of products instead I get the comparison from one source and fulfill my needs in Delhi.Executives are the best in approaching."
+      },
+      {
+        "intent": "Loan",
+        "entities": [
+          {
+            "start": 288,
+            "end": 293,
+            "value": "Delhi",
+            "entity": "Location"
+          },
+          {
+            "start": 60,
+            "end": 66,
+            "value": "Mumbai",
+            "entity": "Location"
+          }
+        ],
+        "text": "I had applied for a personal loan with Aditya Birla Finance Mumbai limited for an amount of seven lakhs.Rte of interest is high as compared to others.Post applying i did not receive any kind of an update from them not even an alert.They don't show an interest to collect the documents in Delhi."
+      },
+      {
+        "intent": "Credit Card",
+        "entities": [
+          {
+            "start": 266,
+            "end": 271,
+            "value": "Delhi",
+            "entity": "Location"
+          },
+          {
+            "start": 12,
+            "end": 18,
+            "value": "Mumbai",
+            "entity": "Location"
+          }
+        ],
+        "text": "ICICI Bank  Mumbai is also good in the banking services. The credit card offers are always there and it is is useful to me. I get discounts and there are cash back deals too. The credit limit is also good and there are no hassles technically while using the card in Delhi."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have been using Paytm service for the last six months tome.My credit card number is 5500000000000004.I had taken it n 23rd December 2014.I t is from the Kolkata branch at Dalhousie.i do get best offers for shopping online,recharges,i do money transfer also but its nit chargeable I am totally satisfied with the service of paytm.The website is easy to understand and navigate."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken a mobile loan from Bajaj Finserv and it was a good loan experience. The loan amount was for Rs 18000 with zero percent interest rate. I pay an EMI of Rs 2000 which has to be paid for 9 months. Customer service was good, they responded on time and they followed"
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have a car insurance with SBI for the past two years. The amount is around 2 lacs which is not at all satisfactory. I am not happy with their customer services. They are rude and irresponsive.My name is Dimple Kapadia.I am from Gujarat.My bank account number is 6789123456789. I took it on 25th May 2017."
+      },
+      {
+        "intent": "Loan",
+        "text": "I have taken a loan from SBI for 20lac rupees in December 2016.They were late in processing the documents and asked for too many documents. They gave the loan very late.I had asked for 25 lacs but got only 20 lacs.The rate of interest at 12.3% is also higher compared to other banks. I am not happy with their services. My name is Dushyant Singh from Bhopal."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have an insurance policy with LIC for the past five years.There services are good. They respond on time and give me good offers and benefits.The bank account number is 76895432678954. I am happy with their service.My name i Rita Bandopadhyay from Kolkata West Bengal."
+      },
+      {
+        "intent": "Insurance",
+        "text": "I have taken Two wheeler loan with Tamilnadu Mercantile bank.The loan amount is 62,000,rate of interest is nominal as compared to others.I have submitted documents.The EMI amount is 1300.I have taken it for 2 years.The response was quick and fast."
+      },
+      {
+        "intent": "Credit Card",
+        "text": "I know bankbazaar.com from last 4-5 months, the services provided by bankbazaar is bad when compared to all other sources in the market. The experience was bad so far with bankbazaar. Customer service was bad and their response was not prompt. The mobile applicat"
+      },
+      {
+        "intent": "Loan",
+        "text": "My personal loan was taken with Bajaj Finserv by last year. The services are very good. Earlier I had taken a personal loan and it was closed with them again I took a new loan. The rate of interest was little bit average. They offer a part payment option.My name is Ashit Raj.I am from Noida Delhi. My account number is 5655389667345."
+      }
+    ],
+    "regex_features": [
+      {
+        "name": "IFS code",
+        "pattern": "SBIN.*"
+      },
+      {
+        "name": "credit card",
+        "pattern": "card.*"
+      },
+      {
+        "name": "insurance",
+        "pattern": "insurance.*"
+      },
+      {
+        "name": "loan",
+        "pattern": "loan.*"
+      }
+    ],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
