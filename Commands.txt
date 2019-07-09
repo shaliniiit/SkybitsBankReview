@@ -1,0 +1,16 @@
+cd Desktop
+mkdir PatentBot
+cd PatentBot
+>pip install -r requirements.txt
+python -m spacy download en
+npm i -g rasa-nlu-trainer
+mkdir data
+cd data
+echo 'rasa nlu'>data.json
+rasa-nlu-trainer
+cd..
+echo 'config'>config_spacy.json
+echo 'model'>nlu_model.py
+python nlu_model.py
+
+
