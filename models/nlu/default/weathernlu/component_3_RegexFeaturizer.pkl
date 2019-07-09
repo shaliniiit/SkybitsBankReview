@@ -1,0 +1,14 @@
+[
+    {
+        "name": "credit card",
+        "pattern": "card.*"
+    },
+    {
+        "name": "insurance",
+        "pattern": "insurance.*"
+    },
+    {
+        "name": "loan",
+        "pattern": "loan.*"
+    }
+]
